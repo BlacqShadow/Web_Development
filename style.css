@@ -50,7 +50,7 @@ padding:0 0 0 30px;
 }
 /*-----------------------------menu-------------------*/
 #menu{
-width:648px;
+width:748px;
 height:41px;
 margin:55px 0 0 26px;
 background:url(images/menu_bg.jpg) no-repeat center;
@@ -514,7 +514,7 @@ div.pagination a {
 padding: 2px 5px 2px 5px;
 margin-right: 2px;
 border: 1px solid #ddd;
-text-decoration: none; 
+text-decoration: none;
 color: #990000;
 }
 div.pagination a:hover, div.pagination a:active {
@@ -555,5 +555,3 @@ text-decoration:none;
 padding:0 5px 0 5px;
 color:#afaeaf;
 }
-
-
