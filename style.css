@@ -54,6 +54,8 @@ width:748px;
 height:41px;
 margin:55px 0 0 26px;
 background:url(images/menu_bg.jpg) no-repeat center;
+background-size: cover;
+
 }
 #menu ul{
 display:block;
@@ -536,6 +538,23 @@ margin-right: 2px;
 border: 1px solid #f3f3f3;
 color: #ccc;
 }
+
+/*******************Search Bar*******************/
+#s {
+    width: 480px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('/images/search_icon.png');
+    /*background-position: 10px 10px;*/
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+
+/************************************************/
 /*---------------footer------------------------*/
 .footer{
 height:100px;
