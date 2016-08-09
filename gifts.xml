@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="category.xslt"?>
+<!--All the listings have been ripped from here:
+      http://www.houseplantsexpert.com/a-z-list-of-house-plants.html-->
+<Gifts>
+  <Plant>
+    <Name>
+      <Common>Coral Berry</Common>
+      <Botanical>Ardisia Crenata</Botanical>
+    </Name>
+    <Price>200</Price>
+    <Origin>East Asia</Origin>
+    <Photo></Photo>
+    <Growth>3 ft</Growth>
+    <Poisionous>Unknown</Poisionous>
+  </Plant>
+
+  <Plant>
+    <Name>
+      <Common>Christmas Cactus</Common>
+      <Botanical>Schlumbergera Bridgesii</Botanical>
+    </Name>
+    <Price>170</Price>
+    <Origin>Brazil</Origin>
+    <Photo></Photo>
+    <Growth>10 in</Growth>
+    <Poisionous>NO</Poisionous>
+  </Plant>
+
+  <Plant>
+    <Name>
+      <Common>Poinsettia</Common>
+      <Botanical>Euphorbia Pulcherrima</Botanical>
+    </Name>
+    <Price>100</Price>
+    <Origin>Mexico and Central America</Origin>
+    <Photo></Photo>
+    <Growth>18 in</Growth>
+    <Poisionous>Yes</Poisionous>
+  </Plant>
+
+  <Plant>
+    <Name>
+      <Common>Winter Cherry</Common>
+      <Botanical>Solanum Capsicastrum</Botanical>
+    </Name>
+    <Price>120</Price>
+    <Origin>Peru and Ecuador</Origin>
+    <Photo></Photo>
+    <Growth>24 in</Growth>
+    <Poisionous>YES</Poisionous>
+  </Plant>
+
+</Gifts>

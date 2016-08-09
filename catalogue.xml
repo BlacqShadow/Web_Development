@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="category.xslt"?>
 <!--All the listings have been ripped from here:
       http://www.houseplantsexpert.com/a-z-list-of-house-plants.html-->
-
 <CATALOG>
   <PLANT>
     <NAME>
@@ -10,7 +10,7 @@
     </NAME>
     <PRICE>19.5</PRICE>
     <ORIGIN>South America</ORIGIN>
-    <PHOTO>/images/amaryllis.jpg</PHOTO>
+    <PHOTO>images/amaryllis.jpg</PHOTO>
     <GROWTH>30 in</GROWTH>
     <POISIONOUS>Yes</POISIONOUS>
   </PLANT>
@@ -22,7 +22,7 @@
     </NAME>
     <PRICE>32</PRICE>
     <ORIGIN>South Africa</ORIGIN>
-    <PHOTO>/images/barbeton.jpg</PHOTO>
+    <PHOTO>images/barbeton.jpg</PHOTO>
     <GROWTH>24 in</GROWTH>
     <POISIONOUS>NO</POISIONOUS>
   </PLANT>
@@ -34,7 +34,7 @@
     </NAME>
     <PRICE>44.5</PRICE>
     <ORIGIN>South Africa</ORIGIN>
-    <PHOTO>/images/calla-lily.jpg</PHOTO>
+    <PHOTO>images/calla-lily.jpg</PHOTO>
     <GROWTH>3 ft</GROWTH>
     <POISIONOUS>YES</POISIONOUS>
   </PLANT>
@@ -46,7 +46,7 @@
     </NAME>
     <PRICE>29.95</PRICE>
     <ORIGIN>North Africa</ORIGIN>
-    <PHOTO>/images/aluminum_plant.jpg</PHOTO>
+    <PHOTO>images/aluminum_plant.jpg</PHOTO>
     <GROWTH>1 - 2 ft</GROWTH>
     <POISIONOUS>YES</POISIONOUS>
   </PLANT>
@@ -58,7 +58,7 @@
     </NAME>
     <PRICE>75.5</PRICE>
     <ORIGIN>East Australia</ORIGIN>
-    <PHOTO>/images/birds_nest_fern.jpg</PHOTO>
+    <PHOTO>images/birds_nest_fern.jpg</PHOTO>
     <GROWTH>2 ft</GROWTH>
     <POISIONOUS>NO</POISIONOUS>
   </PLANT>
@@ -70,7 +70,7 @@
     </NAME>
     <PRICE>38.35</PRICE>
     <ORIGIN>America</ORIGIN>
-    <PHOTO>/images/boston_fern.jpg</PHOTO>
+    <PHOTO>images/boston_fern.jpg</PHOTO>
     <GROWTH>3ft</GROWTH>
     <POISIONOUS>NO</POISIONOUS>
   </PLANT>
@@ -82,7 +82,7 @@
     </NAME>
     <PRICE>70</PRICE>
     <ORIGIN>Japan</ORIGIN>
-    <PHOTO>/images/cast_iron_plant.jpg</PHOTO>
+    <PHOTO>images/cast_iron_plant.jpg</PHOTO>
     <GROWTH>36 in</GROWTH>
     <POISIONOUS>NO</POISIONOUS>
   </PLANT>
@@ -94,7 +94,7 @@
     </NAME>
     <PRICE>66</PRICE>
     <ORIGIN>North Africa</ORIGIN>
-    <PHOTO>/images/aloe_vera.jpg</PHOTO>
+    <PHOTO>images/aloe_vera.jpg</PHOTO>
     <GROWTH>1 - 2 ft</GROWTH>
     <POISIONOUS>Yes</POISIONOUS>
   </PLANT>
@@ -106,7 +106,7 @@
     </NAME>
     <PRICE>98</PRICE>
     <ORIGIN>Mexico</ORIGIN>
-    <PHOTO>/images/bunny_ear_cactus.jpg</PHOTO>
+    <PHOTO>images/bunny_ear_cactus.jpg</PHOTO>
     <GROWTH>12 - 18 in</GROWTH>
     <POISIONOUS>Partially</POISIONOUS>
   </PLANT>
@@ -118,7 +118,7 @@
     </NAME>
     <PRICE>25</PRICE>
     <ORIGIN>Madagascar</ORIGIN>
-    <PHOTO>/images/flaming_katy.jpg</PHOTO>
+    <PHOTO>images/flaming_katy.jpg</PHOTO>
     <GROWTH>18</GROWTH>
     <POISIONOUS>YES</POISIONOUS>
   </PLANT>
