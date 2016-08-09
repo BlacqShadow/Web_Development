@@ -1,178 +1,125 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="category.xslt"?>
 <!--All the listings have been ripped from here:
-      http://www.housePlantsexpert.com/a-z-list-of-house-Plants.html-->
+      http://www.houseplantsexpert.com/a-z-list-of-house-plants.html-->
 <CATALOG>
-  <Plant>
-    <Name>
-      <Common>Amaryllis</Common>
-      <Botanical>Hippeastrum</Botanical>
-    </Name>
-    <Price>19.5</Price>
-    <Origin>South America</Origin>
-    <Photo>images/amaryllis.jpg</Photo>
-    <Growth>30 in</Growth>
-    <Poisionous>Yes</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Amaryllis</COMMON>
+      <BOTANICAL>Hippeastrum</BOTANICAL>
+    </NAME>
+    <PRICE>19.5</PRICE>
+    <ORIGIN>South America</ORIGIN>
+    <PHOTO>images/amaryllis.jpg</PHOTO>
+    <GROWTH>30 in</GROWTH>
+    <POISIONOUS>Yes</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Barbeton</Common>
-      <Botanical>Gebera Jamesonii</Botanical>
-    </Name>
-    <Price>32</Price>
-    <Origin>South Africa</Origin>
-    <Photo>images/barbeton.jpg</Photo>
-    <Growth>24 in</Growth>
-    <Poisionous>NO</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Barbeton</COMMON>
+      <BOTANICAL>Gebera Jamesonii</BOTANICAL>
+    </NAME>
+    <PRICE>32</PRICE>
+    <ORIGIN>South Africa</ORIGIN>
+    <PHOTO>images/barbeton.jpg</PHOTO>
+    <GROWTH>24 in</GROWTH>
+    <POISIONOUS>NO</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Calla lily</Common>
-      <Botanical>Zantedeschia aethiopica</Botanical>
-    </Name>
-    <Price>44.5</Price>
-    <Origin>South Africa</Origin>
-    <Photo>images/calla-lily.jpg</Photo>
-    <Growth>3 ft</Growth>
-    <Poisionous>YES</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Calla lily</COMMON>
+      <BOTANICAL>Zantedeschia aethiopica</BOTANICAL>
+    </NAME>
+    <PRICE>44.5</PRICE>
+    <ORIGIN>South Africa</ORIGIN>
+    <PHOTO>images/calla-lily.jpg</PHOTO>
+    <GROWTH>3 ft</GROWTH>
+    <POISIONOUS>YES</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Aluminium Plant</Common>
-      <Botanical>Pilea Cadierei</Botanical>
-    </Name>
-    <Price>29.95</Price>
-    <Origin>North Africa</Origin>
-    <Photo>images/aluminum_Plant.jpg</Photo>
-    <Growth>1 - 2 ft</Growth>
-    <Poisionous>YES</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Aluminium Plant</COMMON>
+      <BOTANICAL>Pilea Cadierei</BOTANICAL>
+    </NAME>
+    <PRICE>29.95</PRICE>
+    <ORIGIN>North Africa</ORIGIN>
+    <PHOTO>images/aluminum_plant.jpg</PHOTO>
+    <GROWTH>1 - 2 ft</GROWTH>
+    <POISIONOUS>YES</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Bird's Nest Fern</Common>
-      <Botanical>Asplenium Nidus</Botanical>
-    </Name>
-    <Price>75.5</Price>
-    <Origin>East Australia</Origin>
-    <Photo>images/birds_nest_fern.jpg</Photo>
-    <Growth>2 ft</Growth>
-    <Poisionous>NO</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Bird's Nest Fern</COMMON>
+      <BOTANICAL>Asplenium Nidus</BOTANICAL>
+    </NAME>
+    <PRICE>75.5</PRICE>
+    <ORIGIN>East Australia</ORIGIN>
+    <PHOTO>images/birds_nest_fern.jpg</PHOTO>
+    <GROWTH>2 ft</GROWTH>
+    <POISIONOUS>NO</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Boston Fern</Common>
-      <Botanical>Nephrolepis Exaltata</Botanical>
-    </Name>
-    <Price>38.35</Price>
-    <Origin>America</Origin>
-    <Photo>images/boston_fern.jpg</Photo>
-    <Growth>3ft</Growth>
-    <Poisionous>NO</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Boston Fern</COMMON>
+      <BOTANICAL>Nephrolepis Exaltata</BOTANICAL>
+    </NAME>
+    <PRICE>38.35</PRICE>
+    <ORIGIN>America</ORIGIN>
+    <PHOTO>images/boston_fern.jpg</PHOTO>
+    <GROWTH>3ft</GROWTH>
+    <POISIONOUS>NO</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Cast Iron Plant</Common>
-      <Botanical>Aspidistra elatior</Botanical>
-    </Name>
-    <Price>70</Price>
-    <Origin>Japan</Origin>
-    <Photo>images/cast_iron_Plant.jpg</Photo>
-    <Growth>36 in</Growth>
-    <Poisionous>NO</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Cast Iron Plant</COMMON>
+      <BOTANICAL>Aspidistra elatior</BOTANICAL>
+    </NAME>
+    <PRICE>70</PRICE>
+    <ORIGIN>Japan</ORIGIN>
+    <PHOTO>images/cast_iron_plant.jpg</PHOTO>
+    <GROWTH>36 in</GROWTH>
+    <POISIONOUS>NO</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Aloe Vera</Common>
-      <Botanical>Aloe barbadensis</Botanical>
-    </Name>
-    <Price>66</Price>
-    <Origin>North Africa</Origin>
-    <Photo>images/aloe_vera.jpg</Photo>
-    <Growth>1 - 2 ft</Growth>
-    <Poisionous>Yes</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Aloe Vera</COMMON>
+      <BOTANICAL>Aloe barbadensis</BOTANICAL>
+    </NAME>
+    <PRICE>66</PRICE>
+    <ORIGIN>North Africa</ORIGIN>
+    <PHOTO>images/aloe_vera.jpg</PHOTO>
+    <GROWTH>1 - 2 ft</GROWTH>
+    <POISIONOUS>Yes</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Bunny ear Cactus</Common>
-      <Botanical>Opuntia Microdasys</Botanical>
-    </Name>
-    <Price>98</Price>
-    <Origin>Mexico</Origin>
-    <Photo>images/bunny_ear_cactus.jpg</Photo>
-    <Growth>12 - 18 in</Growth>
-    <Poisionous>Partially</Poisionous>
-  </Plant>
+  <PLANT>
+    <NAME>
+      <COMMON>Bunny ear Cactus</COMMON>
+      <BOTANICAL>Opuntia Microdasys</BOTANICAL>
+    </NAME>
+    <PRICE>98</PRICE>
+    <ORIGIN>Mexico</ORIGIN>
+    <PHOTO>images/bunny_ear_cactus.jpg</PHOTO>
+    <GROWTH>12 - 18 in</GROWTH>
+    <POISIONOUS>Partially</POISIONOUS>
+  </PLANT>
 
-  <Plant>
-    <Name>
-      <Common>Flaming Katy</Common>
-      <Botanical>Kalanchoe blossfeldiana</Botanical>
-    </Name>
-    <Price>25</Price>
-    <Origin>Madagascar</Origin>
-    <Photo>images/flaming_katy.jpg</Photo>
-    <Growth>18</Growth>
-    <Poisionous>YES</Poisionous>
-  </Plant>
-
-  <Plant>
-    <Name>
-      <Common>Coral Berry</Common>
-      <Botanical>Ardisia Crenata</Botanical>
-    </Name>
-    <Price>200</Price>
-    <Origin>East Asia</Origin>
-    <Photo>images/coral_berry.jpg</Photo>
-    <Growth>3 ft</Growth>
-    <Poisionous>Unknown</Poisionous>
-    <Details>The coral berry, also known as the Christmas berry is an attractive Plant in all seasons. With this shrub, growers have the opportunity to see clusters of white or pinkish flowers bloom in the summer that are followed by red berries which last over the Xmas holiday. The red berries that grow is the main attraction to this species and what makes it a great Christmas indoor Plant.</Details>
-  </Plant>
-
-  <Plant>
-    <Name>
-      <Common>Christmas Cactus</Common>
-      <Botanical>Schlumbergera Bridgesii</Botanical>
-    </Name>
-    <Price>170</Price>
-    <Origin>Brazil</Origin>
-    <Photo>images/christmas_cactus.jpg</Photo>
-    <Growth>10 in</Growth>
-    <Poisionous>NO</Poisionous>
-    <Details>This cactus produces small, flat stem segments that are roundish in nature, with minor serrations on both sides. They flower from the end of these segments. The Christmas variety has neon pink pollen-bearing stamen. Along with the December blooming preference, this is the Cactus's defining feature. The Christmas cactus blooms mid-November - January.</Details>
-  </Plant>
-
-  <Plant>
-    <Name>
-      <Common>Poinsettia</Common>
-      <Botanical>Euphorbia Pulcherrima</Botanical>
-    </Name>
-    <Price>100</Price>
-    <Origin>Mexico and Central America</Origin>
-    <Photo>images/poinsettia.jpg</Photo>
-    <Growth>18 in</Growth>
-    <Poisionous>Yes</Poisionous>
-    <Details>The poinsettia is one of the most popular of all Christmas Plants. The attractive red flower heads (bracts) and dark green foliage gives it the ideal look for the festive season. After the euphorbia pulcherrima has flowered and the leaves fall - that is the end of this wonderful looking shrubs life, unless you have the time and patience to get it re-flowering again for the following Christmas.</Details>
-  </Plant>
-
-  <Plant>
-    <Name>
-      <Common>Winter Cherry</Common>
-      <Botanical>Solanum Capsicastrum</Botanical>
-    </Name>
-    <Price>120</Price>
-    <Origin>Peru and Ecuador</Origin>
-    <Photo>images/winter_cherry.jpg</Photo>
-    <Growth>24 in</Growth>
-    <Poisionous>YES</Poisionous>
-    <Details>Also known as the Jerusalem cherry and solanum pseudocapsicum, you will find it's a popular orNamental Plant to buy at Christmas time, sold in many stores. Very white or whitish small star shaped flowers bloom during summer, followed by berries that look just like small tomatoes. Because this Plant enjoys bright light and fairly low temperatures you can allow it to sit outside during the summer.</Details>
-  </Plant>
-
+  <PLANT>
+    <NAME>
+      <COMMON>Flaming Katy</COMMON>
+      <BOTANICAL>Kalanchoe blossfeldiana</BOTANICAL>
+    </NAME>
+    <PRICE>25</PRICE>
+    <ORIGIN>Madagascar</ORIGIN>
+    <PHOTO>images/flaming_katy.jpg</PHOTO>
+    <GROWTH>18</GROWTH>
+    <POISIONOUS>YES</POISIONOUS>
+  </PLANT>
 </CATALOG>
