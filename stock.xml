@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="specials.xslt"?>
+
+<!--All the listings have been ripped from here:
+      http://www.houseplantsexpert.com/a-z-list-of-house-plants.html-->
+
+<Stock>
+  <PLANT>
+    <NAME>
+      <COMMON>Amaryllis</COMMON>
+      <BOTANICAL>Hippeastrum</BOTANICAL>
+    </NAME>
+    <PRICE>19.5</PRICE>
+    <ORIGIN>South America</ORIGIN>
+    <PHOTO>images/amaryllis.jpg</PHOTO>
+    <GROWTH>30 in</GROWTH>
+    <POISIONOUS>Yes</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Barbeton</COMMON>
+      <BOTANICAL>Gebera Jamesonii</BOTANICAL>
+    </NAME>
+    <PRICE>32</PRICE>
+    <ORIGIN>South Africa</ORIGIN>
+    <PHOTO>images/barbeton.jpg</PHOTO>
+    <GROWTH>24 in</GROWTH>
+    <POISIONOUS>NO</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Calla lily</COMMON>
+      <BOTANICAL>Zantedeschia aethiopica</BOTANICAL>
+    </NAME>
+    <PRICE>44.5</PRICE>
+    <ORIGIN>South Africa</ORIGIN>
+    <PHOTO>images/calla-lily.jpg</PHOTO>
+    <GROWTH>3 ft</GROWTH>
+    <POISIONOUS>YES</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Aluminium Plant</COMMON>
+      <BOTANICAL>Pilea Cadierei</BOTANICAL>
+    </NAME>
+    <PRICE>29.95</PRICE>
+    <ORIGIN>North Africa</ORIGIN>
+    <PHOTO>images/aluminum_plant.jpg</PHOTO>
+    <GROWTH>1 - 2 ft</GROWTH>
+    <POISIONOUS>YES</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Bird's Nest Fern</COMMON>
+      <BOTANICAL>Asplenium Nidus</BOTANICAL>
+    </NAME>
+    <PRICE>75.5</PRICE>
+    <ORIGIN>East Australia</ORIGIN>
+    <PHOTO>images/birds_nest_fern.jpg</PHOTO>
+    <GROWTH>2 ft</GROWTH>
+    <POISIONOUS>NO</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Boston Fern</COMMON>
+      <BOTANICAL>Nephrolepis Exaltata</BOTANICAL>
+    </NAME>
+    <PRICE>38.35</PRICE>
+    <ORIGIN>America</ORIGIN>
+    <PHOTO>images/boston_fern.jpg</PHOTO>
+    <GROWTH>3ft</GROWTH>
+    <POISIONOUS>NO</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Cast Iron Plant</COMMON>
+      <BOTANICAL>Aspidistra elatior</BOTANICAL>
+    </NAME>
+    <PRICE>70</PRICE>
+    <ORIGIN>Japan</ORIGIN>
+    <PHOTO>images/cast_iron_plant.jpg</PHOTO>
+    <GROWTH>36 in</GROWTH>
+    <POISIONOUS>NO</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Aloe Vera</COMMON>
+      <BOTANICAL>Aloe barbadensis</BOTANICAL>
+    </NAME>
+    <PRICE>66</PRICE>
+    <ORIGIN>North Africa</ORIGIN>
+    <PHOTO>images/aloe_vera.jpg</PHOTO>
+    <GROWTH>1 - 2 ft</GROWTH>
+    <POISIONOUS>Yes</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Bunny ear Cactus</COMMON>
+      <BOTANICAL>Opuntia Microdasys</BOTANICAL>
+    </NAME>
+    <PRICE>98</PRICE>
+    <ORIGIN>Mexico</ORIGIN>
+    <PHOTO>images/bunny_ear_cactus.jpg</PHOTO>
+    <GROWTH>12 - 18 in</GROWTH>
+    <POISIONOUS>Partially</POISIONOUS>
+  </PLANT>
+
+  <PLANT>
+    <NAME>
+      <COMMON>Flaming Katy</COMMON>
+      <BOTANICAL>Kalanchoe blossfeldiana</BOTANICAL>
+    </NAME>
+    <PRICE>25</PRICE>
+    <ORIGIN>Madagascar</ORIGIN>
+    <PHOTO>images/flaming_katy.jpg</PHOTO>
+    <GROWTH>18</GROWTH>
+    <POISIONOUS>YES</POISIONOUS>
+  </PLANT>
+
+
+</Stock>
