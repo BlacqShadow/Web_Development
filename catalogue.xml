@@ -13,7 +13,7 @@
     <PHOTO>images/amaryllis.jpg</PHOTO>
     <GROWTH>30 in</GROWTH>
     <POISIONOUS>Yes</POISIONOUS>
-    
+    <URL>amaryllis.html</URL>
   </PLANT>
 
   <PLANT>
@@ -26,6 +26,7 @@
     <PHOTO>images/barbeton.jpg</PHOTO>
     <GROWTH>24 in</GROWTH>
     <POISIONOUS>NO</POISIONOUS>
+    <URL>barbeton.html</URL>
   </PLANT>
 
   <PLANT>
@@ -38,6 +39,7 @@
     <PHOTO>images/calla-lily.jpg</PHOTO>
     <GROWTH>3 ft</GROWTH>
     <POISIONOUS>YES</POISIONOUS>
+    <URL>calla_lily.html</URL>
   </PLANT>
 
   <PLANT>
@@ -50,6 +52,7 @@
     <PHOTO>images/aluminum_plant.jpg</PHOTO>
     <GROWTH>1 - 2 ft</GROWTH>
     <POISIONOUS>YES</POISIONOUS>
+    <URL>aluminium_plant.html</URL>
   </PLANT>
 
   <PLANT>
@@ -62,6 +65,7 @@
     <PHOTO>images/birds_nest_fern.jpg</PHOTO>
     <GROWTH>2 ft</GROWTH>
     <POISIONOUS>NO</POISIONOUS>
+    <URL>birds_nest_fern.html</URL>
   </PLANT>
 
   <PLANT>
@@ -74,6 +78,7 @@
     <PHOTO>images/boston_fern.jpg</PHOTO>
     <GROWTH>3ft</GROWTH>
     <POISIONOUS>NO</POISIONOUS>
+    <URL>boston_fern.html</URL>
   </PLANT>
 
   <PLANT>
@@ -86,6 +91,7 @@
     <PHOTO>images/cast_iron_plant.jpg</PHOTO>
     <GROWTH>36 in</GROWTH>
     <POISIONOUS>NO</POISIONOUS>
+    <URL>cast_iron_plant.html</URL>
   </PLANT>
 
   <PLANT>
@@ -98,6 +104,7 @@
     <PHOTO>images/aloe_vera.jpg</PHOTO>
     <GROWTH>1 - 2 ft</GROWTH>
     <POISIONOUS>Yes</POISIONOUS>
+    <URL>aloe_vera.html</URL>
   </PLANT>
 
   <PLANT>
@@ -110,6 +117,7 @@
     <PHOTO>images/bunny_ear_cactus.jpg</PHOTO>
     <GROWTH>12 - 18 in</GROWTH>
     <POISIONOUS>Partially</POISIONOUS>
+    <URL>bunny_ear_cactus.html</URL>
   </PLANT>
 
   <PLANT>
@@ -122,5 +130,6 @@
     <PHOTO>images/flaming_katy.jpg</PHOTO>
     <GROWTH>18</GROWTH>
     <POISIONOUS>YES</POISIONOUS>
+    <URL>flaming_katy.html</URL>
   </PLANT>
 </CATALOG>

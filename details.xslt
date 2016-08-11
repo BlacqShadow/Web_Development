@@ -61,7 +61,7 @@
 		                    <div class="prod_title">Details</div>
 		                    <p class="details">getString()</p>
 		                    <div class="price"><strong>PRICE:</strong> <span class="red">100 $</span></div>
-		                    <div class="price"><strong>COLORS:</strong>
+		                    <div class="price"><strong>COLORS: </strong>
 		                    <span class="colors"><img src="images/color1.gif" alt="" title="" border="0" /></span>
 		                    <span class="colors"><img src="images/color2.gif" alt="" title="" border="0" /></span>
 		                    <span class="colors"><img src="images/color3.gif" alt="" title="" border="0" /></span>                    </div>

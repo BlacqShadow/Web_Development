@@ -13,6 +13,7 @@
     <Photo>images/coral_berry.jpg</Photo>
     <Growth>3 ft</Growth>
     <Poisionous>Unknown</Poisionous>
+    <URL>coral_berry.html</URL>
     <Details>The coral berry, also known as the Christmas berry is an attractive plant in all seasons. With this shrub, growers have the opportunity to see clusters of white or pinkish flowers bloom in the summer that are followed by red berries which last over the Xmas holiday. The red berries that grow is the main attraction to this species and what makes it a great Christmas indoor plant.</Details>
   </Plant>
 
@@ -26,6 +27,7 @@
     <Photo>images/christmas_cactus.jpg</Photo>
     <Growth>10 in</Growth>
     <Poisionous>NO</Poisionous>
+    <URL>christmas_cactus.html</URL>
     <Details>This cactus produces small, flat stem segments that are roundish in nature, with minor serrations on both sides. They flower from the end of these segments. The Christmas variety has neon pink pollen-bearing stamen. Along with the December blooming preference, this is the Cactus's defining feature. The Christmas cactus blooms mid-November - January.</Details>
   </Plant>
 
@@ -39,6 +41,7 @@
     <Photo>images/poinsettia.jpg</Photo>
     <Growth>18 in</Growth>
     <Poisionous>Yes</Poisionous>
+    <URL>poinsettia.html</URL>
     <Details>The poinsettia is one of the most popular of all Christmas plants. The attractive red flower heads (bracts) and dark green foliage gives it the ideal look for the festive season. After the euphorbia pulcherrima has flowered and the leaves fall - that is the end of this wonderful looking shrubs life, unless you have the time and patience to get it re-flowering again for the following Christmas.</Details>
   </Plant>
 
@@ -52,6 +55,7 @@
     <Photo>images/winter_cherry.jpg</Photo>
     <Growth>24 in</Growth>
     <Poisionous>YES</Poisionous>
+    <URL>winter_cherry.html</URL>
     <Details>Also known as the Jerusalem cherry and solanum pseudocapsicum, you will find it's a popular ornamental plant to buy at Christmas time, sold in many stores. Very white or whitish small star shaped flowers bloom during summer, followed by berries that look just like small tomatoes. Because this plant enjoys bright light and fairly low temperatures you can allow it to sit outside during the summer.</Details>
   </Plant>
 

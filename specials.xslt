@@ -40,7 +40,7 @@
               <xsl:for-each select="Plant">
           	<div class="feat_prod_box">
 
-              	<div class="prod_img"><a href="details.html"><img src="{Photo}" alt="" title="" border="0" /></a></div>
+              	<div class="prod_img"><a href="{URL}"><img src="{Photo}" alt="" title="" border="0" /></a></div>
 
                   <div class="prod_det_box">
                   	<span class="special_icon"><img src="images/special_icon.gif" alt="" title="" /></span>
