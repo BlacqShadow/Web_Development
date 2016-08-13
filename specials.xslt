@@ -13,22 +13,24 @@
   <div id="wrap">
 
          <div class="header">
-         		<div class="logo"><a href="index.html"><img src="images/logo.gif" alt="" title="" border="0" /></a></div>
-          <div id="menu">
-              <ul>
-              <li><a href="index.html">home</a></li>
-              <li><a href="about.html">about us</a></li>
-              <li><a href="category.html">flowers</a></li>
-              <li class="selected"><a href="specials.html">specials gifts</a></li>
-              <li><a href="myaccount.html">my accout</a></li>
-              <li><a href="register.html">register</a></li>
-              <li><a href="details.html">prices</a></li>
-              <li><a href="contact.html">contact</a></li>
-              </ul>
-          </div>
+       		<div class="logo"><a href="index.html"><img src="images/logo.gif" alt="" title="" border="0" /></a></div>
+        <div id="menu">
+            <ul>
+            <li><a href="index.html">home</a></li>
+            <li><a href="about.html">about us</a></li>
+            <li><a href="catalogue.xml">flowers</a></li>
+            <li class="selected"><a href="gifts.xml">specials gifts</a></li>
+            <li><a href="myaccount.html">my accout</a></li>
+            <li><a href="register.html">register</a></li>
+            <li><a href="details.html">prices</a></li>
+            <li><a href="contact.html">contact</a></li>
+            <li><a href="search.html">search</a></li>     <!--Insert a search menu item-->
+            <!--Insert a dynamic search box if time allows -->
+            </ul>
+        </div>
 
 
-         </div>
+       </div>
 
 
          <div class="center_content">
@@ -46,7 +48,7 @@
                   	<span class="special_icon"><img src="images/special_icon.gif" alt="" title="" /></span>
                   	<div class="box_top"></div>
                       <div class="box_center">
-                      <div class="prod_title"><xsl:value-of select="Name/Common"/></div>
+                      <div class="prod_title"><a href="{URL}"><xsl:value-of select="Name/Common"/></a></div>
                       <p class="details"><xsl:value-of select="Details"/></p>
                       <a href="details.html" class="more">- more details -</a>
                       <div class="clear"></div>
@@ -241,18 +243,18 @@
 
 
           <div class="footer">
-          	<div class="left_footer"><img src="images/footer_logo.gif" alt="" title="" /><br /> <a href="http://csscreme.com/freecsstemplates/" title="free templates"><img src="images/csscreme.gif" alt="free templates" title="free templates" border="0" /></a></div>
-           <div class="right_footer">
-           <a href="#">home</a>
-           <a href="#">about us</a>
-           <a href="#">flowers</a>
-           <a href="#">privacy policy</a>
-           <a href="#">contact us</a>
+       	<div class="left_footer"><img src="images/footer_logo.gif" alt="" title="" /><br /> <a href="http://csscreme.com/freecsstemplates/" title="free templates"><img src="images/csscreme.gif" alt="free templates" title="free templates" border="0" /></a></div>
+        <div class="right_footer">
+        <a href="index.html">home</a>
+        <a href="about.html">about us</a>
+        <a href="catalogue.xml">flowers</a>
+        <a href="#">privacy policy</a>
+        <a href="contact.html">contact us</a>
+        
+        </div>
+        <p style="font-size:9px">©Deakin University, School of Information Technology. This web page has been developed as a student assignment for the unit SIT203: Web Programming. Therefore it is not part of the University's authorised web site. <strong>DO NOT USE THE INFORMATION CONTAINED ON THIS WEB PAGE IN ANY WAY.</strong></p>
 
-           </div>
-
-
-          </div>
+       </div>
 
 
    </div>
