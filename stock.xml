@@ -1,8 +1,12 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="details.xslt"?>
 
-<!--All the listings have been ripped from here:
-      http://www.housePlantsexpert.com/a-z-list-of-house-Plants.html-->
+<!--All the listings have been taken from the website: 
+      http://www.housePlantsexpert.com/a-z-list-of-house-Plants.html -->
+
+      <!--Frugal attempt to create a repository of all the items in the shop 
+          So that there would have been only one details page for 1 product.
+          Tried using windows.localStorage send and get functions but unable to achieve the outcome. -->
 
 <Stock>
   <Plant>

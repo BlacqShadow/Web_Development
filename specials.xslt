@@ -39,6 +39,7 @@
               <div class="title"><span class="title_icon"><img src="images/bullet1.gif" alt="" title="" /></span>Special gifts</div>
 
               <!-- Inserting foreach loop -->
+              <!-- looping over each and every product and printing it out -->
               <xsl:for-each select="Plant">
           	<div class="feat_prod_box">
 
@@ -47,7 +48,7 @@
                   <div class="prod_det_box">
                   	<span class="special_icon"><img src="images/special_icon.gif" alt="" title="" /></span>
                   	<div class="box_top"></div>
-                      <div class="box_center">
+                      <div class="box_center">  <!--XSLT and XPATH used to get the desired results -->
                       <div class="prod_title"><a href="{URL}"><xsl:value-of select="Name/Common"/></a></div>
                       <p class="details"><xsl:value-of select="Details"/></p>
                       <a href="details.html" class="more">- more details -</a>

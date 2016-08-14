@@ -283,13 +283,7 @@
 		</div>
 
 		</body>
-		<script type="text/javascript">
-
-		var tabber1 = new Yetii({
-		id: 'demo'
-		});
-
-		</script>
+		
 		</html>
 	</xsl:template>
 </xsl:stylesheet>

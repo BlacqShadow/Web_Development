@@ -41,8 +41,8 @@
                 <div class="title"><span class="title_icon"><img src="images/bullet1.gif" alt="" title="" /></span>Category products</div>
 
                <div class="new_products">
-                 <xsl:for-each select="PLANT">
-                   <div class="new_prod_box">
+                 <xsl:for-each select="PLANT">  <!--All the other divs no longer requred; loop over each product and print it to the screen. -->
+                   <div class="new_prod_box">   <!-- XSLT and XPATH used in combination to achive the desired result. -->
                       <!-- Is Redirected to the correct URL -->
                        <a href="{URL}"><xsl:value-of select="NAME/COMMON"/></a>
                        <div class="new_prod_bg">
