@@ -4,11 +4,7 @@
 	<xsl:template match="/Stock">
 		<html xmlns="http://www.w3.org/1999/xhtml">
 		<head>
-			<script>
-		    function getString() {
-		    return window.localStorage.getItem("name");
-		    }
-		  </script>
+
 		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
 		<title>Flower Shop</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
@@ -23,10 +19,10 @@
 		<div id="wrap">
 
 		       <div class="header">
-		       		<div class="logo"><a href="index.html"><img src="images/logo.gif" alt="" title="" border="0" /></a></div>
+		       		<div class="logo"><a href="ass1.html"><img src="images/logo.gif" alt="" title="" border="0" /></a></div>
 		        <div id="menu">
 		            <ul>
-		            <li class="selected"><a href="index.html">home</a></li>
+		            <li class="selected"><a href="ass1.html">home</a></li>
 		            <li><a href="about.html">about us</a></li>
 		            <li><a href="category.html">flowers</a></li>
 		            <li><a href="specials.html">specials gifts</a></li>
@@ -43,114 +39,45 @@
 
 		       <div class="center_content">
 		       	<div class="left_content">
-		        	<div class="crumb_nav">
-		            <a href="index.html">home</a> &gt;&gt; product name
-		            </div>
-		            <div class="title"><span class="title_icon"><img src="images/bullet1.gif" alt="" title="" /></span>Product name</div>
+		        	<table class="cart_table">
+            	<tr class="cart_title">
+                	<td>Product name</td>
+                    <td>Unit price</td>
+                </tr>
 
-		        	<div class="feat_prod_box_details">
+            	<tr>
+                	<td><a href="details.html"><img src="images/cart_thumb.gif" alt="" title="" border="0" class="cart_thumb" /></a></td>
+                	<td>Gift flowers</td>
+                    <td>100$</td>
+                    <td>1</td>
+                    <td>100$</td>
+                </tr>
+            	<tr>
+                	<td><a href="details.html"><img src="images/cart_thumb.gif" alt="" title="" border="0" class="cart_thumb" /></a></td>
+                	<td>Gift flowers</td>
+                    <td>100$</td>
+                    <td>1</td>
+                    <td>100$</td>
+                </tr>
+            	<tr>
+                	<td><a href="details.html"><img src="images/cart_thumb.gif" alt="" title="" border="0" class="cart_thumb" /></a></td>
+                	<td>Gift flowers</td>
+                    <td>100$</td>
+                    <td>1</td>
+                    <td>100$</td>
+                </tr>
 
-		            	<div class="prod_img"><a href="details.html"><img src="images/prod1.gif" alt="" title="" border="0" /></a>
-		                <br /><br />
-		                <a href="images/big_pic.jpg" rel="lightbox"><img src="images/zoom.gif" alt="" title="" border="0" /></a>
-		                </div>
+                <tr>
+                <td colspan="4" class="cart_total"><span class="red">TOTAL SHIPPING:</span></td>
+                <td> 25$</td>
+                </tr>
 
-		                <div class="prod_det_box">
-		                	<div class="box_top"></div>
-		                    <div class="box_center">
-		                    <div class="prod_title">Details</div>
-		                    <p class="details">getString()</p>
-		                    <div class="price"><strong>PRICE:</strong> <span class="red">100 $</span></div>
-		                    <div class="price"><strong>COLORS: </strong>
-		                    <span class="colors"><img src="images/color1.gif" alt="" title="" border="0" /></span>
-		                    <span class="colors"><img src="images/color2.gif" alt="" title="" border="0" /></span>
-		                    <span class="colors"><img src="images/color3.gif" alt="" title="" border="0" /></span>                    </div>
-		                    <a href="details.html" class="more"><img src="images/order_now.gif" alt="" title="" border="0" /></a>
-		                    <div class="clear"></div>
-		                    </div>
+                <tr>
+                <td colspan="4" class="cart_total"><span class="red">TOTAL:</span></td>
+                <td> 325$</td>
+                </tr>
 
-		                    <div class="box_bottom"></div>
-		                </div>
-		            <div class="clear"></div>
-		            </div>
-
-
-		            <div id="demo" class="demolayout">
-
-		                <ul id="demo-nav" class="demolayout">
-		                <li><a class="active" href="#tab1">More details</a></li>
-		                <li><a class="" href="#tab2">Related Products</a></li>
-		                </ul>
-
-		            <div class="tabs-container">
-
-		                    <div style="display: block;" class="tab" id="tab1">
-		                                        <p class="more_details">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-		                                        </p>
-		                            <ul class="list">
-		                            <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
-		                            <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
-		                            <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
-		                            <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit</a></li>
-		                            </ul>
-		                                         <p class="more_details">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-		                                        </p>
-		                    </div>
-
-		                            <div style="display: none;" class="tab" id="tab2">
-		                    <div class="new_prod_box">
-		                        <a href="details.html">product name</a>
-		                        <div class="new_prod_bg">
-		                        <a href="details.html"><img src="images/thumb1.gif" alt="" title="" class="thumb" border="0" /></a>
-		                        </div>
-		                    </div>
-
-		                    <div class="new_prod_box">
-		                        <a href="details.html">product name</a>
-		                        <div class="new_prod_bg">
-		                        <a href="details.html"><img src="images/thumb2.gif" alt="" title="" class="thumb" border="0" /></a>
-		                        </div>
-		                    </div>
-
-		                    <div class="new_prod_box">
-		                        <a href="details.html">product name</a>
-		                        <div class="new_prod_bg">
-		                        <a href="details.html"><img src="images/thumb3.gif" alt="" title="" class="thumb" border="0" /></a>
-		                        </div>
-		                    </div>
-
-		                    <div class="new_prod_box">
-		                        <a href="details.html">product name</a>
-		                        <div class="new_prod_bg">
-		                        <a href="details.html"><img src="images/thumb1.gif" alt="" title="" class="thumb" border="0" /></a>
-		                        </div>
-		                    </div>
-
-		                    <div class="new_prod_box">
-		                        <a href="details.html">product name</a>
-		                        <div class="new_prod_bg">
-		                        <a href="details.html"><img src="images/thumb2.gif" alt="" title="" class="thumb" border="0" /></a>
-		                        </div>
-		                    </div>
-
-		                    <div class="new_prod_box">
-		                        <a href="details.html">product name</a>
-		                        <div class="new_prod_bg">
-		                        <a href="details.html"><img src="images/thumb3.gif" alt="" title="" class="thumb" border="0" /></a>
-		                        </div>
-		                    </div>
-
-
-
-		                    <div class="clear"></div>
-		                            </div>
-
-		            </div>
-
-
-					</div>
-
-
+            </table>
 
 		        <div class="clear"></div>
 		        </div><!--end of left content-->
@@ -268,7 +195,7 @@
 		       <div class="footer">
        	<div class="left_footer"><img src="images/footer_logo.gif" alt="" title="" /><br /> <a href="http://csscreme.com/freecsstemplates/" title="free templates"><img src="images/csscreme.gif" alt="free templates" title="free templates" border="0" /></a></div>
         <div class="right_footer">
-        <a href="index.html">home</a>
+        <a href="ass1.html">home</a>
         <a href="about.html">about us</a>
         <a href="catalogue.xml">flowers</a>
         <a href="#">privacy policy</a>

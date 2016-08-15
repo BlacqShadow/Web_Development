@@ -1,6 +1,9 @@
 <?xml version="1.0"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
+<!-- Houseplantsexpert.com. (2016). A-Z List Of House Plants - Common and Scientific Names. [online] Available at: http://www.houseplantsexpert.com/a-z-list-of-house-plants.html [Accessed 7 Aug. 2016].
+
+W3schools.com. (2016). W3Schools Online Web Tutorials. [online] Available at: http://www.w3schools.com/ [Accessed 7 Aug. 2016]. -->
   <xsl:template match="/Gifts">
     <html>
   <head>
@@ -13,10 +16,10 @@
   <div id="wrap">
 
          <div class="header">
-       		<div class="logo"><a href="index.html"><img src="images/logo.gif" alt="" title="" border="0" /></a></div>
+       		<div class="logo"><a href="ass1.html"><img src="images/logo.gif" alt="" title="" border="0" /></a></div>
         <div id="menu">
             <ul>
-            <li><a href="index.html">home</a></li>
+            <li><a href="ass1.html">home</a></li>
             <li><a href="about.html">about us</a></li>
             <li><a href="catalogue.xml">flowers</a></li>
             <li class="selected"><a href="gifts.xml">specials gifts</a></li>
@@ -246,7 +249,7 @@
           <div class="footer">
        	<div class="left_footer"><img src="images/footer_logo.gif" alt="" title="" /><br /> <a href="http://csscreme.com/freecsstemplates/" title="free templates"><img src="images/csscreme.gif" alt="free templates" title="free templates" border="0" /></a></div>
         <div class="right_footer">
-        <a href="index.html">home</a>
+        <a href="ass1.html">home</a>
         <a href="about.html">about us</a>
         <a href="catalogue.xml">flowers</a>
         <a href="#">privacy policy</a>
